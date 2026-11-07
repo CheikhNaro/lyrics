@@ -1,5 +1,5 @@
-# ✨ lyr
-Lyrics in your terminal (that don't look like sh*t).
+# ✨ lyrics
+Lyrics in your terminal
 <img src="gif.gif">
 
 # ❔ installation
